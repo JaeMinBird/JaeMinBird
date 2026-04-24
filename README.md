@@ -18,8 +18,6 @@ I am currently working as an Applied AI Intern at [West Shore Home](https://www.
 
 <div align="center">
 
-<table><tr><td>
-
 <pre>
            ..........           
           ............          
@@ -39,8 +37,6 @@ I am currently working as an Applied AI Intern at [West Shore Home](https://www.
     ...........   ..........    
        ......      ......   
 </pre>
-
-</td></tr></table>
 
 </div>
 
