@@ -28,7 +28,7 @@ I am currently working as an Applied AI Intern at [West Shore Home](https://www.
 ********************************
 ********************************
 ********************************
-***********<a href="https://jaebirdsall.com" style="white: gray; text-decoration: none;>my site</a>************
+***********<a href="https://jaebirdsall.com" style="white: gray; text-decoration: none;">my site</a>************
  ****************************** 
       ********************     
      **********************     
