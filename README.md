@@ -1,16 +1,23 @@
-## Hi there 👋
+----------------------------------------
+<span>Jae Birdsall, Hello World!!</span>
+----------------------------------------
+       /\     /\
+      /  \   /  \
+     / ──────── \
+    |  ━      ━  |
+    |  ˘      ˘  |  ≋
+    |    ╰──╯    |
+     \──────────/
+         |  |
+       ┌──────┐
+       │  ☕  │
+       └──────┘
 
-<!--
-**JaeMinBird/JaeMinBird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working as an Applied AI Intern at [West Shore Home](https://www.westshorehome.com). I am looking to begin contributing to open source projects and growing as an engineer in the AI space. 👋
 
-Here are some ideas to get you started:
+### Check out my social medias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [Personal website](https://jaebirdsall.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jaeminbirdsall/)
+
+![JaeMinBird's github stats](https://github-readme-stats.vercel.app/api?username=JaeMinBird&show_icons=true)
