@@ -18,6 +18,8 @@ I am currently working as an Applied AI Intern at [West Shore Home](https://www.
 
 <div align="center">
 
+<table><tr><td>
+
 <pre>
            ..........           
           ............          
@@ -38,6 +40,8 @@ I am currently working as an Applied AI Intern at [West Shore Home](https://www.
        ......      ......   
 </pre>
 
+<table><tr><td>
+
 </div>
 
-ASCII courtesy Felix Lee -- flee@cse.psu.edu
+cat courtesy Felix Lee - flee@cse.psu.edu
