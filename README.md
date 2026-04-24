@@ -19,4 +19,7 @@ I am currently working as an Applied AI Intern at [West Shore Home](https://www.
 - [Website](https://jaebirdsall.com)
 - [LinkedIn](https://www.linkedin.com/in/jaeminbirdsall/)
 
+
 ![JaeMinBird's github stats](https://github-readme-stats.vercel.app/api?username=JaeMinBird&show_icons=true)
+
+ASCII courtesy Felix Lee -- flee@cse.psu.edu
