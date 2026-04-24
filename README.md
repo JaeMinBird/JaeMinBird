@@ -40,7 +40,7 @@ I am currently working as an Applied AI Intern at [West Shore Home](https://www.
        ......      ......   
 </pre>
 
-<table><tr><td>
+</td></tr></table>
 
 </div>
 
