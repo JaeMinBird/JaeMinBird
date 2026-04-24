@@ -26,12 +26,7 @@ I am currently working as an Applied AI Intern at [West Shore Home](https://www.
           ::::::::::::          
  :::::::::::::::::::::::::::::- 
 ::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::
-</pre>
-
-<a href="https://yourwebsite.com">My Website!</a>
-
-<pre>
+:::::::::::<a href="https://yourwebsite.com">My Website!</a>::::::::::::::
 ::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::
  :::::::::::::::::::::::::::::: 
